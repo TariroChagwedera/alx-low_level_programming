@@ -1,10 +1,11 @@
+#include <stdlib.h>
+#include <time.h>
 #include <stdio.h>
 
-
 /**
- * main Entry - point
- * Description: 'To print the alphabet in lowercase and uppercase'
- * Return: always 0
+ *main - prints the alphabet in lowercase and uppercase followed by a new line
+ *
+ *Return: always 0
  */
 int main(void)
 {
